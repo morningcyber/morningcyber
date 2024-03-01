@@ -1,6 +1,6 @@
 # Hello! 👋🏼
 
-- You can call me morning, short for @morningcyber 🚀
+- You can call me morning, short for @morningsoftware 🚀
 - I’m currently studying Cybersecurity 📚
 - Contact me at morningsoftware@proton.me 📬
 - Consider donating at https://ko-fi.com/morningsoftware ☕
