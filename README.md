@@ -5,4 +5,4 @@
 - Contact me at morningsoftware@proton.me 📬
 - Consider donating at https://ko-fi.com/morningsoftware ☕
   
-<img src="https://myreadme.vercel.app/api/embed/morningcyber?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
+<img src="https://myreadme.vercel.app/api/embed/morningsoftware?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
